@@ -13,5 +13,5 @@ def creat_obj():
     return object
 
 print("Calling object_create() function")
-obj=creat_obj
+obj=creat_obj()
 print("record closed")
